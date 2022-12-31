@@ -1,9 +1,11 @@
 # ActivitiesCQRS
 
-- You can change your "PORT" from "Properties/launchSettings.json"
-For example: http://localhost:7216 ---> to ----> http://localhost:5200
+- [ ] You can change your "PORT" from "Properties/launchSettings.json"
 
-- You can change your "DATABASE PARAMETER" from "appsettings.json" and "appsettings.Development.json"
+For example: 
+http://localhost:7216 ---> to ----> http://localhost:5200
+
+- [ ] You can change your "DATABASE PARAMETER" from "appsettings.json" and "appsettings.Development.json"
 For example: 
 
 
