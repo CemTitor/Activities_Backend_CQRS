@@ -1,5 +1,7 @@
 # ActivitiesCQRS
 
+Frontend part of the project: https://github.com/CemTitor/Activity_Frontend
+
 If you want
 
 - [ ] You can change your "PORT" from "Properties/launchSettings.json"
